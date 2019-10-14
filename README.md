@@ -2,5 +2,4 @@
 ## Members
 ---
 Rainer Maalik A. Mercado
-
 Lorenz Miguel C. Durante
