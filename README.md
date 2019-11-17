@@ -1,5 +1,7 @@
-# DATAMA2 ASSIGNMENT 01
+# Database Management 2
+
 ## Members
----
-Rainer Maalik A. Mercado                                                                             
-Lorenz Miguel C. Durante
+
+- Lorenz Miguel C. Durante
+- Rainer Maalik A. Mercado
+  
